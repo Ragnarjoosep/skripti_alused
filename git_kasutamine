@@ -21,3 +21,9 @@ git commit -m "muudatuse kirjeldus "
 Muudatuse uurimine
 git log
 git show commit_hash
+
+5. remote kasutaminen
+a)git remote add origin https://github.com/Ragnarjoosep/skripti_alused.git
+
+B)git push -u origin master
+
