@@ -1,0 +1,2 @@
+# skripti_alused
+rakendusserverite automatiseerimine
